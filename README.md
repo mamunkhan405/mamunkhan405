@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdullah AL Mamun
+- 👋 Hi, I’m Abdullah Al Mamun
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently working at Techmelba International as a software engineer.
 - 
